@@ -7,7 +7,6 @@
     <router-view />
   </div>
 </template>
-<!--hahah-->
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
